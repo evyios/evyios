@@ -1,6 +1,6 @@
 ![MasterHead](https://mobiosolutions.com/wp-content/uploads/2020/01/IOS.png)
 
-<h4 align="left">Hey, I’m an IOS developer. My goals are to be focus for the best app experience, content, and delivery of the massage you want to send to the user. I spent a lot of time learning programming and how to implement a new features in my applications.</h3>
+<h4 align="left">Hey, I’m an IOS developer. My goals are to be focus for the best app experience, content and delivery of the massage you want to send to the user. I spent a lot of time learning programming and how to implement a new features in my applications.</h3>
 
 <img align="right" alt="Coding" width="500" src="https://propulsive.in/assets/img/service-icon/mobile.gif">
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 Focus on user experience of mobile App 
 
-- 📫 How to reach me **ev.yachny@gmail.com**
+- 📫 How to reach me: **ev.yachny@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
